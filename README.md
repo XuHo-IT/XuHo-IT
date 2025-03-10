@@ -35,7 +35,8 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
   </a>
 </p>
 
-<h2>💪 Projects </h2>
+
+<h2> Profile Summary </h2>
 <div align="center">
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XuHo-IT&theme=dark)
