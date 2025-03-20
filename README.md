@@ -46,7 +46,6 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=XuHo-IT&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/xuho-it?theme=dark&font=Rajdhani)<br/>
+<!-- ## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/xuho-it?theme=dark&font=Rajdhani)<br/>-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
