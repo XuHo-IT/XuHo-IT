@@ -44,18 +44,10 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
 </div>
 
 ## Achievements
+ [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/ngotranxuanhoa01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/xuho-it/)
 
-- 🏅 **HackerRank Medal**  
-  Earned for SQL.  
-  ![Medal](https://res.cloudinary.com/dsjlij11b/image/upload/v1742798150/Screenshot_2025-03-24_133507_t2triw.png)
-  
-  ## 🎓 HackerRank Certifications
-- [HackerRank Certificate - (SQL (Basic) Certificate)](https://www.hackerrank.com/certificates/14533637ef56)
-- [HackerRank Certificate - (SQL (Intermediate) Certificate)](https://www.hackerrank.com/certificates/3ff5df78a4e6)
-
-
-  Check it out [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/ngotranxuanhoa01)
-
+     
 
 <!-- ## Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xuho-it?theme=dark&font=Rajdhani)<br/>-->
