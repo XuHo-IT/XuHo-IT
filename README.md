@@ -43,14 +43,17 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=XuHo-IT&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ## Achievements
 
 - 🏅 **HackerRank Medal**  
   Earned for SQL.  
-  ![Medal](https://res.cloudinary.com/dsjlij11b/image/upload/v1742798150/Screenshot_2025-03-24_133507_t2triw.png)  
+  ![Medal](https://res.cloudinary.com/dsjlij11b/image/upload/v1742798150/Screenshot_2025-03-24_133507_t2triw.png)
+  
+  ## 🎓 HackerRank Certifications
+- [HackerRank Certificate - (SQL (Basic) Certificate)](https://www.hackerrank.com/certificates/14533637ef56)
+- [HackerRank Certificate - (SQL (Intermediate) Certificate)](https://www.hackerrank.com/certificates/3ff5df78a4e6)
+
+
   Check it out [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/ngotranxuanhoa01)
 
 
