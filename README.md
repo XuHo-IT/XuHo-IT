@@ -50,8 +50,9 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
 
 - 🏅 **HackerRank Medal**  
   Earned for SQL.  
-  ![Medal](https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg)  
-  Check it out [here](https://www.hackerrank.com/profile/ngotranxuanhoa01).
+  ![Medal](https://res.cloudinary.com/dsjlij11b/image/upload/v1742797709/Screenshot_2025-03-24_132654_a2y6c9.png)  
+  Check it out [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/ngotranxuanhoa01)
+
 
 <!-- ## Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xuho-it?theme=dark&font=Rajdhani)<br/>-->
