@@ -47,7 +47,7 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
 
 ## Achievements
  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/ngotranxuanhoa01)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/xuho-it/)
+<!--[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/xuho-it/)
 
 
 
