@@ -36,14 +36,22 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
 </p>
 
 
-<h2> Profile Summary </h2>
-<div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XuHo-IT&theme=dark)
+<h2>🚀 Profile Summary</h2>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XuHo-IT&show_icons=true&theme=tokyonight" />
+  <a href="https://portfolio-xuhos-projects.vercel.app" target="_blank" style="font-size: 18px; text-decoration: none; color: #3498db;">
+    🌐 Visit My Portfolio
+  </a>
 </p>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XuHo-IT&theme=dark" alt="Profile Details" style="max-width: 100%; margin-bottom: 10px;" />
+
+  <p>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XuHo-IT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </p>
 </div>
+
 
 ## Achievements
  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/ngotranxuanhoa01)
