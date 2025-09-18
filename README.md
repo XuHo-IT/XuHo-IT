@@ -55,10 +55,11 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
 
 
 <div align="center">
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XuHo-IT&theme=dark" alt="Profile Details" style="max-width: 100%; margin-bottom: 10px;" />
 
   <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XuHo-IT&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XuHo-IT&show_icons=true&theme=tokyonight&token=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" alt="GitHub Stats" />
   </p>
 </div>
 
