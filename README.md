@@ -42,14 +42,10 @@ Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in
 <h2>🚀 Profile Summary</h2>
 
 <p align="center">
-  <a href="https://portfolio-xuhos-projects.vercel.app" target="_blank" style="font-size: 18px; text-decoration: none; color: #3498db;">
+  <a href="https://profile-rosy-one.vercel.app/" target="_blank" style="font-size: 18px; text-decoration: none; color: #3498db;">
     🌐 Visit My Portfolio
   </a>
 <br/>
-
- <a href="https://xuho-it.github.io/Portfolio/" target="_blank" style="font-size: 18px; text-decoration: none; color: #3498db;">
-    🌐 Or this one(In case the above link is dead)
-  </a>
 
 </p>
 
