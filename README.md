@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in my 4th year at FPT University, majoring in Software Engineering. I enjoy building robust applications and exploring new technologies. My primary focus is on .NET development, and I'm currently diving deeply into ASP.NET.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XuHo-IT&label=Profile%20views&color=0e75b6&style=flat" alt="jackpieking" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XuHo-IT&label=Profile%20views&color=0e75b6&style=flat" alt="XuHo_IT" /> </p>
 
 
 ## 🌐 Socials:
