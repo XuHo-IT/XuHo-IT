@@ -1,72 +1,163 @@
-# 💫 About Me:
-Hi there, I'm XuHo! 👋<br><br>I'm a passionate software developer currently in my 4th year at FPT University, majoring in Software Engineering. I enjoy building robust applications and exploring new technologies. My primary focus is on .NET development, and I'm currently diving deeply into ASP.NET.
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XuHo-IT&label=Profile%20views&color=0e75b6&style=flat" alt="XuHo_IT" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6366f1&height=220&section=header&text=Ngo%20Tran%20Xuan%20Hoa%20(XuHo)&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20Full-stack%20.NET%20%26%20Next.js%20Developer&descAlignY=52&descSize=17"/>
 
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.xuho._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/xuan-hoa-b581102b7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngotranxuanhoa09062004@gmail.com) 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=AI+Engineer+%40+NBOX+Visual;Designing+%26+Training+AI+Agents+for+Production;.NET+%2F+ASP.NET+Core+%2B+Next.js+Developer;Shipping+AI+products+people+actually+pay+for+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
 <p align="center">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="36" height="36" alt=".NET" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="Microsoft SQL Server" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=XuHo-IT&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
+  <a href="https://founder.corelixtech.site/"><img src="https://img.shields.io/badge/Founder%20Page-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://profile-rosy-one.vercel.app/"><img src="https://img.shields.io/badge/Dev%20Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
+---
 
-<h2>🚀 Profile Summary</h2>
+### 💫 About Me
 
-<p align="center">
-  <a href="https://profile-rosy-one.vercel.app/" target="_blank" style="font-size: 18px; text-decoration: none; color: #3498db;">
-    🌐 Visit My Portfolio
-  </a>
+Full-stack developer specializing in **AI Automation, AI Agent design/training, and Prompt Engineering**. I build production AI-powered products end-to-end — from ASP.NET Core / Next.js backends to autonomous content pipelines that run unattended and publish straight into revenue products.
+
+- 🤖 **AI Engineer @ NBOX AI** (Feb 2026 – Present) — design AI automation workflows that cut manual operational workload by **50%+**, and train AI agents for image generation & content creation
+- 🎓 Final-year **Software Engineering** student @ **FPT University** (2022 – 2026)
+- 🗣️ **IELTS 7.0** — comfortable working with cross-border clients and teams
+- 🌱 Currently going deeper on RAG/vector search, agent evaluation, and MLOps — see **Currently Learning** below
+
 <br/>
 
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/_.xuho._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/xuan-hoa-b581102b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ngotranxuanhoa09062004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/ngotranxuanhoa01" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
+<br/>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,js,html,css,react,nextjs,redux,vite,tailwind,bootstrap,mongodb,postgres,mysql,redis,docker,git,github,githubactions,vercel,postman&theme=dark" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-2563eb?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=white" />
+</p>
+
+<br/>
+
+### 💼 Work Experience
+
+| Company | Role | Period |
+|---|---|---|
+| **NBOX Visual** | AI Engineer | Feb 2026 – Present |
+| **JobLog** | Frontend Developer (Part-time) | Dec 2025 – Mar 2026 |
+| **FPT Software** | Backend Developer (C#, EF Core, WPF/MVVM) | Dec 2024 – Jul 2025 |
+| **Pictographic.io** | Data Labeling Engineer | Apr 2024 – Jun 2024 |
+
+<br/>
+
+### 🚀 Featured Projects
+
+**🩸 [Chuyện Chưa Kể — AI Horror Story Platform](https://www.chuyenchuake.com/)**
+AI-powered full-stack platform generating Vietnamese horror stories, branching narratives, mystery cases, and AI cover art on a unified AI gateway with a credit-based economy.
+`Next.js 15 · React 19 · TypeScript · Supabase · Gemini 2.5 Flash · SDXL/Z-Image/Pruna`
+
+**📄 [AI Use Case Report Generator](https://testcasegenerator-lemon.vercel.app/)**
+Auto-generates Use Case Reports & Test Cases for software documentation, exporting structured Excel reports via Gemini AI.
+`.NET 8 · ASP.NET Core Web API · Google Gemini API · ClosedXML · Next.js 15`
+
+**🤖 [Content Agent Kit](https://github.com/XuHo-IT/Content_Agent_Kit)** — open source (MIT)
+A framework/methodology extracted from real production content agents — thin cron triggers, externalized playbooks, and a bounded review-and-repair loop for autonomous content pipelines.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XuHo-IT&repo=Content_Agent_Kit&theme=tokyonight&hide_border=true" />
+</div>
+
+**🔎 rag-eval-vn** — RAG evaluation research project (Python), covering chunking, embedding, retrieval, and evaluation metrics, deployed on Hugging Face Spaces.
+
+<br/>
+
+### 📊 Automation Impact
 
 <div align="center">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XuHo-IT&theme=dark" alt="Profile Details" style="max-width: 100%; margin-bottom: 10px;" />
+| Metric | Detail |
+|---|---|
+| 🟢 **90+ stories** | Published autonomously by AI agents into a live production platform |
+| 🟢 **27 subagents** | Custom writer / reviewer / fixer agents orchestrated across content pipelines |
+| 🟢 **6 weeks** | Continuous, unattended cron-driven content generation in production |
+| 🟢 **32-tenant SaaS** | Multi-client platform running from a single codebase on Cloud Run |
 
-  <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XuHo-IT&show_icons=true&theme=tokyonight&token=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" alt="GitHub Stats" />
-  </p>
 </div>
 
+<br/>
 
-## Achievements
- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/ngotranxuanhoa01)
-<!--[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/xuho-it/)
+### 🏅 Certificates & Languages
 
+- 🗣️ **IELTS 7.0** — [Certificate](https://drive.google.com/drive/folders/1MSEN0sRjXguPyZiynQaHrcLgU_FKvQf6?usp=sharing)
+- 🗄️ **SQL Certificate** (HackerRank) — [Certificate](https://www.hackerrank.com/certificates/592a3c915824)
+- 🏆 **Competition Certificates** — [View](https://drive.google.com/drive/folders/1_UIEJTyEwYuSXMp1acfhf670nED377De?usp=sharing)
 
+<br/>
 
+### 🌱 Currently Learning
 
-<!-- ## Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/xuho-it?theme=dark&font=Rajdhani)<br/>-->
+Vector databases (Qdrant) & hybrid RAG · MLflow experiment tracking · Kubernetes + Helm · Observability (Prometheus/Grafana) · LoRA fine-tuning with Ollama
 
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XuHo-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuHo-IT&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=XuHo-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XuHo-IT&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XuHo-IT&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/XuHo-IT/XuHo-IT/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> Cần setup GitHub Action riêng — xem file `snake.yml` kèm theo.
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0e75b6&height=120&section=footer"/>
+
+</div>
