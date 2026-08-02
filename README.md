@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XuHo-IT&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
   <a href="https://founder.corelixtech.site/"><img src="https://img.shields.io/badge/Founder%20Page-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://profile-rosy-one.vercel.app/"><img src="https://img.shields.io/badge/Dev%20Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -64,7 +63,7 @@ Full-stack developer specializing in **AI Automation, AI Agent design/training, 
 
 | Company | Role | Period |
 |---|---|---|
-| **NBOX Visual** | AI Engineer | Feb 2026 – Present |
+| **NBOX AI** | AI Engineer | Feb 2026 – Present |
 | **JobLog** | Frontend Developer (Part-time) | Dec 2025 – Mar 2026 |
 | **FPT Software** | Backend Developer (C#, EF Core, WPF/MVVM) | Dec 2024 – Jul 2025 |
 | **Pictographic.io** | Data Labeling Engineer | Apr 2024 – Jun 2024 |
@@ -73,11 +72,11 @@ Full-stack developer specializing in **AI Automation, AI Agent design/training, 
 
 ### 🚀 Featured Projects
 
-**🩸 [Chuyện Chưa Kể — AI Horror Story Platform](https://www.chuyenchuake.com/)**
+**🩸 [Chuyện Chưa Kể — AI Horror Story Platform](https://www.theuntolds.com/)**
 AI-powered full-stack platform generating Vietnamese horror stories, branching narratives, mystery cases, and AI cover art on a unified AI gateway with a credit-based economy.
 `Next.js 15 · React 19 · TypeScript · Supabase · Gemini 2.5 Flash · SDXL/Z-Image/Pruna`
 
-**📄 [AI Use Case Report Generator](https://testcasegenerator-lemon.vercel.app/)**
+**📄 [AI Use Case Report Generator](https://testcases-generator.vercel.app/)**
 Auto-generates Use Case Reports & Test Cases for software documentation, exporting structured Excel reports via Gemini AI.
 `.NET 8 · ASP.NET Core Web API · Google Gemini API · ClosedXML · Next.js 15`
 
@@ -87,8 +86,6 @@ A framework/methodology extracted from real production content agents — thin c
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=XuHo-IT&repo=Content_Agent_Kit&theme=tokyonight&hide_border=true" />
 </div>
-
-**🔎 rag-eval-vn** — RAG evaluation research project (Python), covering chunking, embedding, retrieval, and evaluation metrics, deployed on Hugging Face Spaces.
 
 <br/>
 
