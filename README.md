@@ -28,7 +28,7 @@
 Full-stack developer specializing in **AI Automation, AI Agent design/training, and Prompt Engineering**. I build production AI-powered products end-to-end — from ASP.NET Core / Next.js backends to autonomous content pipelines that run unattended and publish straight into revenue products.
 
 - 🤖 **AI Engineer @ NBOX AI** (Feb 2026 – Present) — design AI automation workflows that remove a large share of recurring manual operations work, and train AI agents for image generation & content creation
-- 🎓 Final-year **Software Engineering** student @ **FPT University** (2022 – 2026)
+- 🎓 Fresh graduate **Software Engineering** student @ **FPT University** (2022 – 2026)
 - 🗣️ **IELTS 7.0** — comfortable working with cross-border clients and teams
 - 🌱 Currently going deeper on RAG/vector search, agent evaluation, and MLOps — see **Currently Learning** below
 
@@ -80,7 +80,7 @@ Full-stack developer specializing in **AI Automation, AI Agent design/training, 
 
 **🩸 [The UnTolds — AI Horror Story Platform](https://www.theuntolds.com/)**
 AI-powered full-stack platform generating Vietnamese horror stories, branching narratives, mystery cases, and AI cover art on a unified AI gateway with a credit-based economy.
-`Next.js 15 · React 19 · TypeScript · Supabase · Gemini 2.5 Flash · SDXL/Z-Image/Pruna`
+`Next.js 15 · React 19 · TypeScript · Supabase · Gemini 3.5 Flash · Gemini 3.1 Flash Image/SDXL/Z-Image/Pruna`
 
 **🧪 [TestCaseGenerator](https://github.com/XuHo-IT/Testcases-Generator)** — open source (MIT) · [live demo](https://testcases-generator.vercel.app/)
 Generates ISTQB-standard test cases from requirements, user stories, documents or an OpenAPI spec. Every case is scored against 14 quality rules, with a repair pass for the ones that fail. Bring your own key — Claude, GPT, Gemini, or a local Ollama model.
@@ -125,12 +125,6 @@ Answers "which RAG configuration is actually best for *my* Vietnamese document?"
 - 🗣️ **IELTS 7.0** — [Certificate](https://drive.google.com/drive/folders/1MSEN0sRjXguPyZiynQaHrcLgU_FKvQf6?usp=sharing)
 - 🗄️ **SQL Certificate** (HackerRank) — [Certificate](https://www.hackerrank.com/certificates/592a3c915824)
 - 🏆 **Competition Certificates** — [View](https://drive.google.com/drive/folders/1_UIEJTyEwYuSXMp1acfhf670nED377De?usp=sharing)
-
-<br/>
-
-### 🌱 Currently Learning
-
-Vector databases (Qdrant) & hybrid RAG · MLflow experiment tracking · Kubernetes + Helm · Observability (Prometheus/Grafana) · LoRA fine-tuning with Ollama
 
 <br/>
 
