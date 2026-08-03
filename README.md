@@ -6,13 +6,14 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=AI+Engineer+%40+NBOX+Visual;Designing+%26+Training+AI+Agents+for+Production;.NET+%2F+ASP.NET+Core+%2B+Next.js+Developer;Shipping+AI+products+people+actually+pay+for+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=AI+Engineer+%40+NBOX+AI;Designing+%26+Training+AI+Agents+for+Production;.NET+%2F+ASP.NET+Core+%2B+Next.js+Developer;Shipping+AI+products+people+actually+pay+for+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XuHo-IT&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
-  <a href="https://founder.corelixtech.site/"><img src="https://img.shields.io/badge/Founder%20Page-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://founder.corelixtech.site/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/xuan-hoa-b581102b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -42,7 +43,7 @@ Full-stack developer specializing in **AI Automation, AI Agent design/training, 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,js,html,css,react,nextjs,redux,vite,tailwind,bootstrap,mongodb,postgres,mysql,redis,docker,git,github,githubactions,vercel,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,js,python,react,nextjs,redux,vite,tailwind,mongodb,postgres,mysql,redis,docker,git,github,githubactions,vercel,postman&theme=dark" />
 </div>
 
 <p align="center">
@@ -76,15 +77,25 @@ Full-stack developer specializing in **AI Automation, AI Agent design/training, 
 AI-powered full-stack platform generating Vietnamese horror stories, branching narratives, mystery cases, and AI cover art on a unified AI gateway with a credit-based economy.
 `Next.js 15 · React 19 · TypeScript · Supabase · Gemini 2.5 Flash · SDXL/Z-Image/Pruna`
 
-**📄 [AI Use Case Report Generator](https://testcases-generator.vercel.app/)**
-Auto-generates Use Case Reports & Test Cases for software documentation, exporting structured Excel reports via Gemini AI.
-`.NET 8 · ASP.NET Core Web API · Google Gemini API · ClosedXML · Next.js 15`
+**🧪 [TestCaseGenerator](https://github.com/XuHo-IT/Testcases-Generator)** — open source (MIT) · [live demo](https://testcases-generator.vercel.app/)
+Generates ISTQB-standard test cases from requirements, user stories, documents or an OpenAPI spec. Every case is scored against 14 quality rules, with a repair pass for the ones that fail. Bring your own key — Claude, GPT, Gemini, or a local Ollama model.
+`Next.js 16 · TypeScript · Vercel AI SDK · Zod · ExcelJS · 110 tests`
 
-**🤖 [Content Agent Kit](https://github.com/XuHo-IT/Content_Agent_Kit)** — open source (MIT)
-A framework/methodology extracted from real production content agents — thin cron triggers, externalized playbooks, and a bounded review-and-repair loop for autonomous content pipelines.
+**🤖 [Content Agent Kit](https://github.com/XuHo-IT/Content-Agent-Kit)** — open source (MIT)
+A zero-dependency kit that agentic IDEs read to scaffold an autonomous content agent: crawl → write → review gate → publish, plus a 9:16 video pipeline with narration, B-roll and screenshots.
+`Node.js (no dependencies) · ffmpeg · HyperFrames · GitHub Actions`
+
+**🧾 [SePay eInvoice SDK](https://github.com/XuHo-IT/SePay-Einvoice)** — open source (MIT)
+Framework-agnostic TypeScript SDK for Vietnamese e-invoicing: token caching with auto-refresh, async issue-and-poll, and VAT-inclusive splitting that keeps the invoice total equal to what the customer actually paid.
+`TypeScript · npm workspaces · Express · React · Vitest`
+
+**🔎 [RAG Eval Playground VN](https://github.com/XuHo-IT/RAG-EVAL-VN)** — [live on Hugging Face](https://huggingface.co/spaces/XuanHoa/rag-eval-vn)
+Answers "which RAG configuration is actually best for *my* Vietnamese document?" by running several configs over the same document and comparing retrieval precision, answer relevance, latency and token cost. Open models only, no API key.
+`Python · Gradio · FAISS · bge-m3 · Qwen2.5`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XuHo-IT&repo=Content_Agent_Kit&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuHo-IT&repo=Testcases-Generator&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuHo-IT&repo=Content-Agent-Kit&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -95,10 +106,10 @@ A framework/methodology extracted from real production content agents — thin c
 
 | Metric | Detail |
 |---|---|
-| 🟢 **90+ stories** | Published autonomously by AI agents into a live production platform |
+| 🟢 **90+ stories** | Published autonomously by AI agents into my own live platform |
 | 🟢 **27 subagents** | Custom writer / reviewer / fixer agents orchestrated across content pipelines |
 | 🟢 **6 weeks** | Continuous, unattended cron-driven content generation in production |
-| 🟢 **32-tenant SaaS** | Multi-client platform running from a single codebase on Cloud Run |
+| 🟢 **50%+** | Manual operational workload removed by AI automation workflows at work |
 
 </div>
 
@@ -121,16 +132,12 @@ Vector databases (Qdrant) & hybrid RAG · MLflow experiment tracking · Kubernet
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XuHo-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuHo-IT&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XuHo-IT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XuHo-IT&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=XuHo-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XuHo-IT&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
@@ -148,8 +155,6 @@ Vector databases (Qdrant) & hybrid RAG · MLflow experiment tracking · Kubernet
 <div align="center">
   <img src="https://raw.githubusercontent.com/XuHo-IT/XuHo-IT/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-> Cần setup GitHub Action riêng — xem file `snake.yml` kèm theo.
 
 <br/>
 
