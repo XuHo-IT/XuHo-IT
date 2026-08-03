@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6366f1&height=220&section=header&text=Ngo%20Tran%20Xuan%20Hoa%20(XuHo)&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20Full-stack%20.NET%20%26%20Next.js%20Developer&descAlignY=52&descSize=17"/>
+<!--
+  Không dùng "&" trong text/desc: capsule-render chèn thẳng ký tự vào SVG mà
+  không escape thành "&amp;", làm trình duyệt bỏ qua vì lỗi XML — ảnh hiện vỡ
+  dù server vẫn trả HTTP 200. Dùng "·" thay cho "&".
+-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6366f1&height=220&section=header&text=Ngo%20Tran%20Xuan%20Hoa%20(XuHo)&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20Full-stack%20.NET%20%C2%B7%20Next.js%20Developer&descAlignY=52&descSize=17"/>
 
 </div>
 
@@ -73,7 +78,7 @@ Full-stack developer specializing in **AI Automation, AI Agent design/training, 
 
 ### 🚀 Featured Projects
 
-**🩸 [Chuyện Chưa Kể — AI Horror Story Platform](https://www.theuntolds.com/)**
+**🩸 [The UnTolds — AI Horror Story Platform](https://www.theuntolds.com/)**
 AI-powered full-stack platform generating Vietnamese horror stories, branching narratives, mystery cases, and AI cover art on a unified AI gateway with a credit-based economy.
 `Next.js 15 · React 19 · TypeScript · Supabase · Gemini 2.5 Flash · SDXL/Z-Image/Pruna`
 
