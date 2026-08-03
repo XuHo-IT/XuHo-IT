@@ -27,7 +27,7 @@
 
 Full-stack developer specializing in **AI Automation, AI Agent design/training, and Prompt Engineering**. I build production AI-powered products end-to-end — from ASP.NET Core / Next.js backends to autonomous content pipelines that run unattended and publish straight into revenue products.
 
-- 🤖 **AI Engineer @ NBOX AI** (Feb 2026 – Present) — design AI automation workflows that cut manual operational workload by **50%+**, and train AI agents for image generation & content creation
+- 🤖 **AI Engineer @ NBOX AI** (Feb 2026 – Present) — design AI automation workflows that remove a large share of recurring manual operations work, and train AI agents for image generation & content creation
 - 🎓 Final-year **Software Engineering** student @ **FPT University** (2022 – 2026)
 - 🗣️ **IELTS 7.0** — comfortable working with cross-border clients and teams
 - 🌱 Currently going deeper on RAG/vector search, agent evaluation, and MLOps — see **Currently Learning** below
@@ -111,10 +111,10 @@ Answers "which RAG configuration is actually best for *my* Vietnamese document?"
 
 | Metric | Detail |
 |---|---|
-| 🟢 **90+ stories** | Published autonomously by AI agents into my own live platform |
+| 🟢 **90+ stories** | Published autonomously by AI agents into [The UnTolds](https://www.theuntolds.com/) — countable on the live site |
 | 🟢 **27 subagents** | Custom writer / reviewer / fixer agents orchestrated across content pipelines |
 | 🟢 **6 weeks** | Continuous, unattended cron-driven content generation in production |
-| 🟢 **50%+** | Manual operational workload removed by AI automation workflows at work |
+| 🟢 **Most recurring manual work** | Removed by AI automation workflows at work — the exact figures are the employer's, so they stay qualitative here |
 
 </div>
 
