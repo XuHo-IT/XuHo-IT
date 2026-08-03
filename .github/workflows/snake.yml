@@ -8,6 +8,13 @@ on:
     branches:
       - main
 
+# Two runs pushing to `output` at once fail with
+# "cannot lock ref 'refs/heads/output'". Queue instead of racing — a push and
+# the daily cron can otherwise overlap.
+concurrency:
+  group: snake-output
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
