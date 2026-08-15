@@ -82,8 +82,7 @@ Full-stack developer specializing in **AI Automation, AI Agent design/training, 
 AI-powered full-stack platform generating Vietnamese horror stories, branching narratives, mystery cases, and AI cover art on a unified AI gateway with a credit-based economy.
 `Next.js 15 · React 19 · TypeScript · Supabase · Gemini 3.5 Flash · Gemini 3.1 Flash Image/SDXL/Z-Image/Pruna`
 
-**🧪 [TestCaseGenerator](https://github.com/XuHo-IT/Testcases-Generator)** — open source (MIT) · [live demo](https://testcases-generator.vercel.app/)
-Generates ISTQB-standard test cases from requirements, user stories, documents or an OpenAPI spec. Every case is scored against 14 quality rules, with a repair pass for the ones that fail. Bring your own key — Claude, GPT, Gemini, or a local Ollama model.
+**🧪 [TestCaseGenerator](https://github.com/XuHo-IT/Testcases-Generator)** — open source (MIT) · Generates ISTQB-standard test cases from requirements, user stories, documents or an OpenAPI spec. Every case is scored against 14 quality rules, with a repair pass for the ones that fail. Bring your own key — Claude, GPT, Gemini, or a local Ollama model.
 `Next.js 16 · TypeScript · Vercel AI SDK · Zod · ExcelJS · 110 tests`
 
 **🤖 [Content Agent Kit](https://github.com/XuHo-IT/Content-Agent-Kit)** — open source (MIT)
